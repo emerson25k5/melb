@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" class="icone-title" href="imagens/melb.jpg" type="image/png">
+    <title>Melb</title>
+    <!-- Adicione os links para os arquivos CSS e JavaScript do Materialize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <style>
+        .icone-title {
+            border-radius: 10px;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #000;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: relative;
+            overflow: hidden;
+        }
+        section {
+            padding: 2em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center !important;
+            padding: 1em 0;
+            bottom: 0;
+            width: 100%;
+
+        }
+        .conteudo {
+            display: grid;
+            gap: 10px; /* Espaço entre as divs */
+            max-width: 800px; /* Largura máxima do contêiner */
+            margin: 0 auto; /* Centralizar o contêiner na página */
+        }
+        p {
+            text-align: left;
+        }
+        video {
+            border-radius: 10px;
+            width: 268px;
+            height: auto;
+        }
+        header {
+            background-image: url(imagens/snowflakes2.jpg);
+            background-repeat: repeat;
+        }
+
+        .redes-sociais {
+            display: flex;
+            justify-content: space-around;
+        }
+        .rede-social {
+            width: 48px;
+            height: auto;
+        }
+    </style>
+</head>
+
+
+    <header class="z-depth-4">
+        <img src="imagens/melb_bg.png"  width="200" height="auto" alt="Última Tendência" class="responsive-img">
+    </header>
+
+<div class="conteudo container center">
+
+    <br>
+
+    <div class="redes-sociais">
+        <a href="https://www.instagram.com/melb_be/"><img src="imagens/ico-insta.png" alt="instagram_melb" class="rede-social"></a>
+        <a href="#"><img src="imagens/ico-whats.png" alt="whatsapp_melb" class="rede-social"></a>
+    </div>
+
+    <section>
+        <video class="z-depth-2" controls poster="imagens/1.jpg">
+            <source src="imagens/parte1.mp4" type="video/mp4">
+            Seu navegador não suporta o elemento de vídeo.
+        </video>
+        <p>💃 Modelo 1: Emocionada por apresentar meu primeiro design! 🔴💪 Inspirado na vibrante cor vermelha, que simboliza vida e força. Esta peça representa paixão e energia, uma celebração da intensidade que todas nós carregamos. 🌹✨ #MelbFashion #VidaeForça #ModaVibrante</p>
+    </section>
+
+    <section>
+        <video class="z-depth-2" controls poster="imagens/2.jpg">
+            <source src="imagens/parte2.mp4" type="video/mp4">
+            Seu navegador não suporta o elemento de vídeo.
+        </video>
+        <p>🌿 Modelo 2: Sustentabilidade em destaque! 🌎♻️ Este look é um testemunho do meu compromisso com a moda consciente. Reutilizei tecidos de forma criativa, resultando em uma peça deslumbrante em tons de preto, laranja, roxo e rosa. Juntas, podemos ser fashion e eco-friendly! 🧡🖤💜 #ModaSustentável #MelbFashion #ReutilizaçãoCriativa</p>
+    </section>
+
+    <section>
+        <video class="z-depth-2" controls poster="imagens/3.jpg">
+            <source src="imagens/parte3.mp4" type="video/mp4">
+            Seu navegador não suporta o elemento de vídeo.
+        </video>
+        <p>🦋 Modelo 3: Uma ode à transformação! 🌟 Inspirado na fascinante história das borboletas, este vestido vermelho simboliza metamorfose e crescimento. Assim como as borboletas, as mulheres também passam por mudanças incríveis, emergindo mais fortes e belas. ✨❤️ #MelbFashion #MetamorfoseFeminina #VestidoVermelho</p>
+    </section>
+
+</div>
+
+    <footer>
+        <p class="center">&copy; 2023 Melb. Todos os direitos reservados. <br>Made by swupe_</p>
+    </footer>
+
+    <!-- Inicialize os componentes do Materialize -->
+    <script>
+        $(document).ready(function(){
+            M.AutoInit();
+        });
+    </script>
+
+</body>
+</html>
