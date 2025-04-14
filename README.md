@@ -39,14 +39,6 @@
 
 ---
 
-## 📷 Screenshots
-
-<p align="center">
-  <img src="[imagens/melb.jpg](https://github.com/user-attachments/assets/0ced3ecd-eeb7-490a-bad9-3e400f04f83d)" alt="Logo MELB" width="150"/>
-</p>
-
----
-
 ## 📁 Estrutura de Pastas
  <pre>
    melb/
