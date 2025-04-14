@@ -5,17 +5,8 @@
 # MELB | Landing Page
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3cdb92f-bbc0-4f43-878c-54804307393b" alt="Logo MELB" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1df0a890-8585-4a42-9360-0fa933164af5" alt="Logo MELB" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ced3ecd-eeb7-490a-bad9-3e400f04f83d" alt="Logo MELB" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ced3ecd-eeb7-490a-bad9-3e400f04f83d" alt="Logo MELB" width="150"/>
-</p>
-
 
 > Uma landing page simples e responsiva feita para divulgação da marca MELB — com links diretos para redes sociais, loja online e WhatsApp.
 
