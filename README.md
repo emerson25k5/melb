@@ -14,7 +14,7 @@
 
 ## 🔗 Acesse o Projeto
 
-👉 [Veja o site online [(GitHub Pages ou domínio próprio se houver)](https://emerson25k5.github.io/melb)  ](https://encodify.com.br/melb/)
+👉 https://encodify.com.br/melb/
 
 ---
 
